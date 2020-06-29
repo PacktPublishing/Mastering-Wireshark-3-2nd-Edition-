@@ -1,5 +1,5 @@
 # Mastering Wireshark 3(2nd Edition)
-This is the code repository for [Three.js 3D Graphics for the Web: Tips, Tricks, and Techniques [Video]](https://www.packtpub.com/game-development/three-js-3d-graphics-for-the-web-tips-tricks-and-techniques-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Mastering Wireshark 3 - Second Edition [Video]](https://www.packtpub.com/cloud-networking/mastering-wireshark-3-second-edition-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
  
 
