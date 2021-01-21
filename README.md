@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-wireshark-3-second-edition-video/9781839213953)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Mastering Wireshark 3(2nd Edition)
 This is the code repository for [Mastering Wireshark 3 - Second Edition [Video]](https://www.packtpub.com/cloud-networking/mastering-wireshark-3-second-edition-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
